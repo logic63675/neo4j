@@ -1,0 +1,47 @@
+movieId,title,genres
+1,Toy Story (1995),Animation
+1,Toy Story (1995),Comedy
+1,Toy Story (1995),Family
+2,Jumanji (1995),Adventure
+2,Jumanji (1995),Children
+2,Jumanji (1995),Fantasy
+3,Grumpier Old Men (1995),Comedy
+3,Grumpier Old Men (1995),Romance
+4,Waiting to Exhale (1995),Comedy
+4,Waiting to Exhale (1995),Drama
+4,Waiting to Exhale (1995),Romance
+5,Father of the Bride Part II (1995),Comedy
+6,Heat (1995),Action
+6,Heat (1995),Crime
+6,Heat (1995),Thriller
+7,Sabrina (1995),Comedy
+7,Sabrina (1995),Romance
+8,Tom and Huck (1995),Adventure
+8,Tom and Huck (1995),Children
+9,Sudden Death (1995),Action
+10,GoldenEye (1995),Action
+10,GoldenEye (1995),Adventure
+10,GoldenEye (1995),Thriller
+11,The American President (1995),Comedy
+11,The American President (1995),Drama
+11,The American President (1995),Romance
+12,Dracula: Dead and Loving It (1995),Comedy
+12,Dracula: Dead and Loving It (1995),Horror
+13,Balto (1995),Animation
+13,Balto (1995),Children
+14,Nixon (1995),Drama
+15,Cutthroat Island (1995),Action
+15,Cutthroat Island (1995),Adventure
+15,Cutthroat Island (1995),Romance
+16,Casino (1995),Crime
+16,Casino (1995),Drama
+17,Sense and Sensibility (1995),Drama
+17,Sense and Sensibility (1995),Romance
+18,Four Rooms (1995),Comedy
+18,Four Rooms (1995),Thriller
+19,Ace Ventura: When Nature Calls (1995),Comedy
+20,Money Train (1995),Action
+20,Money Train (1995),Comedy
+20,Money Train (1995),Crime
+20,Money Train (1995),Drama
+20,Money Train (1995),Thriller
